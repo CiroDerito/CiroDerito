@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Soy Ciro Derito</h1>
-<h3 align="center">👨‍💻Desarrollador Fullstack con experiencia en tecnologías modernas como React, Node.js, Nest.js, Docker, OpenApi, CI/CD. Me apasiona crear aplicaciones escalables y escribir código limpio, eficiente y seguro. Estoy siempre en la búsqueda de mejorar mis habilidades y aportar en proyectos desafiantes.</h3>
-<h4 align="center">🚀 Objetivo
-Liderar equipos de desarrollo y promover metodologías robustas y arquitecturas limpias.</h4>
+<h1 align="center">Hi 👋, I'm Ciro Derito</h1>
+<h3 align="center">👨‍💻Fullstack Developer with experience in modern technologies such as React, Node.js, Nest.js, Docker, OpenAPI, and CI/CD. I am passionate about creating scalable applications and writing clean, efficient, and secure code. I am always looking to improve my skills and contribute to challenging projects..</h3>
+<h4 align="center">🚀 Objective</h4>
+<h5>Lead development teams and promote robust methodologies and clean architectures..</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciroderito&label=Profile%20views&color=0e75b6&style=flat" alt="ciroderito" /> </p>
 
